@@ -138,6 +138,13 @@ or higher allows the model to capture finer details.
 > Dataset files are intentionally excluded due to licensing restrictions.
 
 ---
+## 🖼 Example Prediction
+
+From left to right: **Input Image / Ground Truth / Model Prediction**
+
+![Prediction Example](images/prediction1.png)
+![Prediction Example](images/prediction2.png)
+
 
 ## 🚀 How to Run
 
