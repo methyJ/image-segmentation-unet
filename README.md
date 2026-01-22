@@ -85,6 +85,16 @@ Dice = 2 × |Prediction ∩ Ground Truth| / (|Prediction| + |Ground Truth|)
 Smaller objects (e.g. traffic signs, poles) are more difficult to segment due to:
 - class imbalance
 - limited input resolution
+## 📊 Training Curves
+
+### Loss
+![Loss Curve](images/loss_curve.png)
+
+### Mean IoU
+![Mean IoU Curve](images/iou_curve.png)
+
+### Dice Coefficient
+![Dice Curve](images/dice_curve.png)
 
 ---
 
