@@ -15,7 +15,7 @@ Suitable as a learning project and as a foundation for more advanced segmentatio
 ## 📌 Project Overview
 
 - Load RGB images and corresponding segmentation masks
-- Build a **U-Net model from scratch**
+- Implemented a U-Net (encoder–decoder) in TensorFlow/Keras using custom Conv/Pool/Transposed-Conv blocks with skip connections.
 - Train using TensorFlow `tf.data` pipelines
 - Evaluate performance using **IoU** and **Dice coefficient**
 - Visualize predictions (image / ground truth / model output)
